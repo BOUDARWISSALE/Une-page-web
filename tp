@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h1>Mon Blog de la semaine</h1>
+<h2>Menu</h2>
+<UL>
+<Li><a href="url">Semaine 1</a></Li>
+<Li><a href="url">Semaine 2</a></Li>
+<Li><a href="url">Semaine 3</a></Li>
+</UL>
+<h2>Rendez-vous de travail</h2>
+<div> 
+    <p>Le 1 Novembre 2018</p>
+    <p>Aujourd'hui,je suis allé Casablanca par train.</p>
+    <p>J'ai rencontré des clients pour signer quelques contrats</p>
+    </div>
+<h2>Le magasinage !!</h2>
+<div> 
+<p>Le 3 Novembre 2018</p>
+<p>Aujourd'hui,j'ai visité plusieurs Mall.</p>
+<p>Les soldes actuels ne sont pas assez intéressants!</p>
+</div>
+<h2>Visiter mes parents</h2>
+<div>
+<p>Le 5 Novembre 2018</p>
+<p>Aujourd'hui,j'ai visité mes parents.</p>
+<p>Nous avons eu un très bon diner ensemble</p>
+</div>
+<h2>Dernières article</h2>
+<UL>
+<Li><a href="url">Rendez-vous de travail</a></Li>
+<Li><a href="url">Le magasinage !!</a></Li>
+<Li><a href="url">Visiter mes parents</a></Li>
+</UL>
+Me contacter :<a href="url">mail@mail.edu</a>
+</body>
+</html>
